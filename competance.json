@@ -1,0 +1,82 @@
+[
+    {
+        "category": "Scripting",
+        "competencies": [
+            {
+                "name": "Python",
+                "value": 10,
+                "description": "Python programming language"
+            },
+            {
+                "name": "Bash",
+                "value": 5,
+                "description": "Bash scripting language"
+            },
+            {
+                "name": "JavaScript",
+                "value": 5,
+                "description": "JavaScript programming language"
+            }
+        ]
+    },
+    {
+        "category": "NO-SQL Databases",
+        "competencies": [
+            {
+                "name": "MongoDB",
+                "value": 5,
+                "description": "MongoDB NoSQL database"
+            }
+        ]
+    },
+    {
+        "category": "Developer Operations",
+        "competencies": [
+            {
+                "name": "Git",
+                "value": 5,
+                "description": "Version control system"
+            },
+            {
+                "name": "Docker",
+                "value": 5,
+                "description": "Containerization platform"
+            }
+        ]
+    },
+    {
+        "category": "Testing",
+        "competencies": [
+            {
+                "name": "TDD",
+                "value": 5,
+                "description": "Test-driven development approach"
+            },
+            {
+                "name": "BDD",
+                "value": 5,
+                "description": "Behavior-driven development approach"
+            }
+        ]
+    },
+    {
+        "category": "Web Development",
+        "competencies": [
+            {
+                "name": "HTML5",
+                "value": 5,
+                "description": "Hypertext Markup Language version 5"
+            },
+            {
+                "name": "CSS3",
+                "value": 5,
+                "description": "Cascading Style Sheets version 3"
+            },
+            {
+                "name": "Vue",
+                "value": 5,
+                "description": "Vue.js JavaScript framework"
+            }
+        ]
+    }
+]
